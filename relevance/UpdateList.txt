@@ -1,4 +1,5 @@
 luci-app-design-config
 luci-app-smartdns
+luci-theme-bootstrap-mod
 luci-theme-design
 smartdns
